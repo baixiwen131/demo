@@ -1,4 +1,4 @@
-[jump](https://github.com/baixiwen131/demo/new/main)
+[jump](https://github.com/baixiwen131/demo/edit/main/next.md)
 # head
 ## head
 ### head
