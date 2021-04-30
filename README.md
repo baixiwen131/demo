@@ -17,7 +17,7 @@
 [腾讯网](http://www.qq.com)
  
 >This is a picture
->
+
 ![吉林大学](https://github.com/baixiwen131/demo/blob/main/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6.jpg)
 
 ```python
@@ -35,7 +35,6 @@ return 0;}
 ```
 | 左对齐 | 右对齐 | 中间对齐 |
 | :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
 | 语文 | 数学 | 英语 |
 
 * title1
