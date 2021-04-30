@@ -2,6 +2,7 @@
 # head
 ## head
 ### head
+
 *I'm* bxw.
 
 **I'm** bxw.
@@ -14,21 +15,7 @@
 >This is a website
 
 [腾讯网](http://www.qq.com)
-
-* title1
-* title2
-* title3 
-  * next title1
-  * next title2
-  * next title3
  
-1. lable1
-1. lable2
-1. lable3   
-
----
----
-
 >This is a picture
 >
 ![吉林大学](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.jdxzz.com%2Fuploads%2Fallimg%2F200422%2F4-2004221A505.jpg&refer=http%3A%2F%2Fwww.jdxzz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622340930&t=1e0ea3a2981ad32674079bffd9c3497e)
@@ -50,6 +37,17 @@ return 0;}
 | :-----| ----: | :----: |
 | 单元格 | 单元格 | 单元格 |
 | 语文 | 数学 | 英语 |
+
+* title1
+* title2
+* title3 
+  * next title1
+  * next title2
+  * next title3
+ 
+1. lable1
+2. lable2
+3. lable3  
 
 * [x] task1
 * [x] task2
