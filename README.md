@@ -18,7 +18,7 @@
  
 >This is a picture
 >
-![吉林大学](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.jdxzz.com%2Fuploads%2Fallimg%2F200422%2F4-2004221A505.jpg&refer=http%3A%2F%2Fwww.jdxzz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622340930&t=1e0ea3a2981ad32674079bffd9c3497e)
+![吉林大学](https://github.com/baixiwen131/demo/blob/main/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6.jpg)
 
 ```python
 def multiplication(num1,num2):
