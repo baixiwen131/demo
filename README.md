@@ -20,11 +20,13 @@
 
 ![吉林大学](https://github.com/baixiwen131/demo/blob/main/%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6.jpg)
 
+>python
 ```python
 def multiplication(num1,num2):
 return num1*num2
 ```
 
+>c语言
 ```c
 #include<stdio.h>
 int main(){
